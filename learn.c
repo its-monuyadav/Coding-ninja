@@ -2,7 +2,7 @@
  
 int check_prime(int);
  
-main()
+int main()
 {
    int n, result;
  
